@@ -69,7 +69,7 @@ inputs:
   - version: 0.9.4-beta
     opts:
       title: "Flutter version"
-      summary: Flutter release version or repository tag, without `v` prefix. E.g. `0.9.4-beta` or `0.10.0` or `master`.
+      summary: Flutter release version or repository tag. E.g. `0.9.4-beta` or `0.10.0` or `master`.
       is_expand: true
       is_required: true
 
